@@ -6,7 +6,7 @@
 [![Updated](https://img.shields.io/badge/Updated-Weekly-green.svg)](https://github.com/agenticallysh/agent-framework-benchmarks)
 [![Reproducible](https://img.shields.io/badge/Tests-Reproducible-orange.svg)](./test-suites/)
 
-## 📊 Latest Results (Week of Oct 22, 2024)
+## 📊 Latest Results (Week of Oct 22, 2025)
 
 [View interactive benchmarks →](https://www.agentically.sh/ai-agentic-frameworks/benchmarks/)
 
@@ -207,9 +207,9 @@ Average Response Time Trends (6 months)
 ```
 
 ### Notable Changes
-- **May 2024**: AutoGen v0.2 major performance improvement
-- **July 2024**: CrewAI memory optimization update
-- **September 2024**: LangGraph parallel processing enhancement
+- **May 2025**: AutoGen v0.2 major performance improvement
+- **July 2025**: CrewAI memory optimization update
+- **September 2025**: LangGraph parallel processing enhancement
 
 [Historical data explorer →](https://www.agentically.sh/ai-agentic-frameworks/benchmarks/history/)
 
