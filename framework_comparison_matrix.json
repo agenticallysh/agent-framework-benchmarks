@@ -1,0 +1,188 @@
+{
+  "frameworks": [
+    "AutoGen",
+    "CrewAI",
+    "LangChain",
+    "LangGraph",
+    "Semantic Kernel"
+  ],
+  "comparison_matrix": {
+    "speed_score": {
+      "AutoGen": 8.9,
+      "CrewAI": 8.2,
+      "LangChain": 7.9,
+      "LangGraph": 8.1,
+      "Semantic Kernel": 8.5
+    },
+    "memory_score": {
+      "AutoGen": 8.1,
+      "CrewAI": 7.8,
+      "LangChain": 7.5,
+      "LangGraph": 9.1,
+      "Semantic Kernel": 8.9
+    },
+    "cost_score": {
+      "AutoGen": 8.7,
+      "CrewAI": 8.3,
+      "LangChain": 8.1,
+      "LangGraph": 7.8,
+      "Semantic Kernel": 9.1
+    },
+    "reliability_score": {
+      "AutoGen": 9.4,
+      "CrewAI": 9.1,
+      "LangChain": 9.5,
+      "LangGraph": 8.5,
+      "Semantic Kernel": 9.5
+    },
+    "ease_of_use": {
+      "AutoGen": 7.8,
+      "CrewAI": 9.2,
+      "LangChain": 7.2,
+      "LangGraph": 7.9,
+      "Semantic Kernel": 8.3
+    },
+    "overall_score": {
+      "AutoGen": 8.9,
+      "CrewAI": 8.7,
+      "LangChain": 8.5,
+      "LangGraph": 8.3,
+      "Semantic Kernel": 7.9
+    }
+  },
+  "rankings": {
+    "speed_score": [
+      {
+        "framework": "AutoGen",
+        "score": 8.9
+      },
+      {
+        "framework": "Semantic Kernel",
+        "score": 8.5
+      },
+      {
+        "framework": "CrewAI",
+        "score": 8.2
+      },
+      {
+        "framework": "LangGraph",
+        "score": 8.1
+      },
+      {
+        "framework": "LangChain",
+        "score": 7.9
+      }
+    ],
+    "memory_score": [
+      {
+        "framework": "LangGraph",
+        "score": 9.1
+      },
+      {
+        "framework": "Semantic Kernel",
+        "score": 8.9
+      },
+      {
+        "framework": "AutoGen",
+        "score": 8.1
+      },
+      {
+        "framework": "CrewAI",
+        "score": 7.8
+      },
+      {
+        "framework": "LangChain",
+        "score": 7.5
+      }
+    ],
+    "cost_score": [
+      {
+        "framework": "Semantic Kernel",
+        "score": 9.1
+      },
+      {
+        "framework": "AutoGen",
+        "score": 8.7
+      },
+      {
+        "framework": "CrewAI",
+        "score": 8.3
+      },
+      {
+        "framework": "LangChain",
+        "score": 8.1
+      },
+      {
+        "framework": "LangGraph",
+        "score": 7.8
+      }
+    ],
+    "reliability_score": [
+      {
+        "framework": "LangChain",
+        "score": 9.5
+      },
+      {
+        "framework": "Semantic Kernel",
+        "score": 9.5
+      },
+      {
+        "framework": "AutoGen",
+        "score": 9.4
+      },
+      {
+        "framework": "CrewAI",
+        "score": 9.1
+      },
+      {
+        "framework": "LangGraph",
+        "score": 8.5
+      }
+    ],
+    "ease_of_use": [
+      {
+        "framework": "CrewAI",
+        "score": 9.2
+      },
+      {
+        "framework": "Semantic Kernel",
+        "score": 8.3
+      },
+      {
+        "framework": "LangGraph",
+        "score": 7.9
+      },
+      {
+        "framework": "AutoGen",
+        "score": 7.8
+      },
+      {
+        "framework": "LangChain",
+        "score": 7.2
+      }
+    ],
+    "overall_score": [
+      {
+        "framework": "AutoGen",
+        "score": 8.9
+      },
+      {
+        "framework": "CrewAI",
+        "score": 8.7
+      },
+      {
+        "framework": "LangChain",
+        "score": 8.5
+      },
+      {
+        "framework": "LangGraph",
+        "score": 8.3
+      },
+      {
+        "framework": "Semantic Kernel",
+        "score": 7.9
+      }
+    ]
+  },
+  "generated_at": "2025-11-01T09:13:26.157291"
+}

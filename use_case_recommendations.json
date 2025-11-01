@@ -1,0 +1,52 @@
+{
+  "Enterprise Applications": [
+    "LangChain",
+    "Semantic Kernel",
+    "AutoGen"
+  ],
+  "Rapid Prototyping": [
+    "CrewAI",
+    "AutoGen",
+    "LangGraph"
+  ],
+  "Cost-Sensitive Projects": [
+    "Semantic Kernel",
+    "LangGraph",
+    "AutoGen"
+  ],
+  "Research & Development": [
+    "AutoGen",
+    "LangGraph",
+    "LangChain"
+  ],
+  "Business Process Automation": [
+    "CrewAI",
+    "LangChain",
+    "Semantic Kernel"
+  ],
+  "Content Creation": [
+    "CrewAI",
+    "LangChain",
+    "AutoGen"
+  ],
+  "Customer Service": [
+    "CrewAI",
+    "LangChain",
+    "AutoGen"
+  ],
+  "Data Analysis": [
+    "AutoGen",
+    "LangChain",
+    "LangGraph"
+  ],
+  "Document Processing": [
+    "LangChain",
+    "AutoGen",
+    "LangGraph"
+  ],
+  "Multi-Agent Coordination": [
+    "CrewAI",
+    "AutoGen",
+    "LangGraph"
+  ]
+}

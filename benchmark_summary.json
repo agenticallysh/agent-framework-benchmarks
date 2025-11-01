@@ -1,0 +1,90 @@
+{
+  "total_tests": 180,
+  "successful_tests": 170,
+  "overall_success_rate": 0.944,
+  "avg_response_time_ms": 589.4,
+  "avg_memory_usage_mb": 541.2,
+  "total_cost": 6.7902,
+  "generated_at": "2025-11-01T09:10:30.389159",
+  "framework_stats": {
+    "AutoGen": {
+      "tests_completed": 35,
+      "avg_response_time_ms": 482.3,
+      "avg_memory_usage_mb": 503.6,
+      "avg_cost_per_test": 0.0385,
+      "success_rate": 0.972
+    },
+    "CrewAI": {
+      "tests_completed": 28,
+      "avg_response_time_ms": 599.0,
+      "avg_memory_usage_mb": 573.8,
+      "avg_cost_per_test": 0.0397,
+      "success_rate": 0.778
+    },
+    "LangChain": {
+      "tests_completed": 36,
+      "avg_response_time_ms": 697.9,
+      "avg_memory_usage_mb": 642.1,
+      "avg_cost_per_test": 0.039,
+      "success_rate": 1.0
+    },
+    "LangGraph": {
+      "tests_completed": 36,
+      "avg_response_time_ms": 627.3,
+      "avg_memory_usage_mb": 446.2,
+      "avg_cost_per_test": 0.0381,
+      "success_rate": 1.0
+    },
+    "Semantic Kernel": {
+      "tests_completed": 35,
+      "avg_response_time_ms": 538.3,
+      "avg_memory_usage_mb": 546.5,
+      "avg_cost_per_test": 0.0444,
+      "success_rate": 0.972
+    }
+  },
+  "rankings": {
+    "fastest": [
+      {
+        "framework": "AutoGen",
+        "time": 482.3
+      },
+      {
+        "framework": "Semantic Kernel",
+        "time": 538.3
+      },
+      {
+        "framework": "CrewAI",
+        "time": 599.0
+      }
+    ],
+    "most_memory_efficient": [
+      {
+        "framework": "LangGraph",
+        "memory": 446.2
+      },
+      {
+        "framework": "AutoGen",
+        "memory": 503.6
+      },
+      {
+        "framework": "Semantic Kernel",
+        "memory": 546.5
+      }
+    ],
+    "most_cost_effective": [
+      {
+        "framework": "LangGraph",
+        "cost": 0.0381
+      },
+      {
+        "framework": "AutoGen",
+        "cost": 0.0385
+      },
+      {
+        "framework": "LangChain",
+        "cost": 0.039
+      }
+    ]
+  }
+}
